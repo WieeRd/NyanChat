@@ -13,3 +13,7 @@
 - 디스코드 봇을 운영한다 ([시계봇](https://github.com/WieeRd/ClockBot))
 - 봇을 사용하는 서버들에서 익명으로 채팅 내역을 수집한다
 - 닉네임 언급, 봇 명령어 등을 제거한다
+
+### Stage 2: 깨달음
+- 예상을 훨씬 뛰어넘는 난이도와 부족한 국어실력을 실감한다
+- 연구를 위해 [BanmalMode](https://github.com/dolsup/BanmalMode)를 파이썬으로 포팅해본다
